@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Aircraft Guide'
-theme = "hugo-PaperMod"
+theme = "hugo-PaperMod-master"
 
 [caches]
   [caches.images]

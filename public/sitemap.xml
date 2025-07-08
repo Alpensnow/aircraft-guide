@@ -2,174 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/</loc>
+    <loc>http://localhost:1313/cold-war/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/bell_ah-1_cobra/</loc>
+    <loc>http://localhost:1313/cold-war/bell_ah-1_cobra/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/bell_uh-1_iroquois/</loc>
+    <loc>http://localhost:1313/cold-war/bell_uh-1_iroquois/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing-b-47-stratojet/</loc>
+    <loc>http://localhost:1313/cold-war/boeing-b-47-stratojet/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing-b-50-superfortress/</loc>
+    <loc>http://localhost:1313/cold-war/boeing-b-50-superfortress/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing-b-52-stratofortress/</loc>
+    <loc>http://localhost:1313/cold-war/boeing-b-52-stratofortress/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing_ah-64_apache/</loc>
+    <loc>http://localhost:1313/cold-war/boeing_ah-64_apache/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing_ch-47_chinook/</loc>
+    <loc>http://localhost:1313/cold-war/boeing_ch-47_chinook/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/boeing_e-3_sentry/</loc>
+    <loc>http://localhost:1313/cold-war/boeing_e-3_sentry/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/convair-b-36-peacemaker/</loc>
+    <loc>http://localhost:1313/cold-war/convair-b-36-peacemaker/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/convair-b-58-hustler/</loc>
+    <loc>http://localhost:1313/cold-war/convair-b-58-hustler/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/general-dynamics-f-111-aardvark/</loc>
+    <loc>http://localhost:1313/cold-war/general-dynamics-f-111-aardvark/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/general-dynamics-f-16-fighting-falcon/</loc>
+    <loc>http://localhost:1313/cold-war/general-dynamics-f-16-fighting-falcon/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/grumman-f-14-tomcat/</loc>
+    <loc>http://localhost:1313/cold-war/grumman-f-14-tomcat/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed-f-104-starfighter/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed-f-104-starfighter/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed-sr-71-blackbird/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed-sr-71-blackbird/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed-u-2/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed-u-2/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed_c-130_hercules/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed_c-130_hercules/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed_c-141_starlifter/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed_c-141_starlifter/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed_c-5_galaxy/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed_c-5_galaxy/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/lockheed_ec-121_warning_star/</loc>
+    <loc>http://localhost:1313/cold-war/lockheed_ec-121_warning_star/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/mcdonnel-douglas-f-15-eagle/</loc>
+    <loc>http://localhost:1313/cold-war/mcdonnel-douglas-f-15-eagle/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/mcdonnel-f-4-phantom/</loc>
+    <loc>http://localhost:1313/cold-war/mcdonnel-f-4-phantom/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/mcdonnell-douglas-fa-18-hornet/</loc>
+    <loc>http://localhost:1313/cold-war/mcdonnell-douglas-fa-18-hornet/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/north-american-f-100-super-sabre/</loc>
+    <loc>http://localhost:1313/cold-war/north-american-f-100-super-sabre/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/north-american-f-86-sabre/</loc>
+    <loc>http://localhost:1313/cold-war/north-american-f-86-sabre/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/northrop-b-2-spirit/</loc>
+    <loc>http://localhost:1313/cold-war/northrop-b-2-spirit/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/republic-f-105-thunderchief/</loc>
+    <loc>http://localhost:1313/cold-war/republic-f-105-thunderchief/</loc>
   </url><url>
-    <loc>https://example.org/cold-war/sikorsky_uh-60_black_hawk/</loc>
+    <loc>http://localhost:1313/cold-war/sikorsky_uh-60_black_hawk/</loc>
   </url><url>
-    <loc>https://example.org/modern-day/</loc>
+    <loc>http://localhost:1313/modern-day/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/</loc>
+    <loc>http://localhost:1313/world-war-i/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/albatros-di/</loc>
+    <loc>http://localhost:1313/world-war-i/albatros-di/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/</loc>
+    <loc>http://localhost:1313/world-war-ii/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/avro-lancaster/</loc>
+    <loc>http://localhost:1313/world-war-ii/avro-lancaster/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/dornier-do-17/</loc>
+    <loc>http://localhost:1313/world-war-ii/dornier-do-17/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/focke-wulf-fw-190/</loc>
+    <loc>http://localhost:1313/world-war-ii/focke-wulf-fw-190/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/gloster-gladiator/</loc>
+    <loc>http://localhost:1313/world-war-ii/gloster-gladiator/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/handley-page-halifax/</loc>
+    <loc>http://localhost:1313/world-war-ii/handley-page-halifax/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/hawker-hurricane/</loc>
+    <loc>http://localhost:1313/world-war-ii/hawker-hurricane/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/heinkel-he-111/</loc>
+    <loc>http://localhost:1313/world-war-ii/heinkel-he-111/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/ilyushin-il-2/</loc>
+    <loc>http://localhost:1313/world-war-ii/ilyushin-il-2/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/ilyushin-il-4/</loc>
+    <loc>http://localhost:1313/world-war-ii/ilyushin-il-4/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/junkers-ju-87/</loc>
+    <loc>http://localhost:1313/world-war-ii/junkers-ju-87/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/junkers-ju-88/</loc>
+    <loc>http://localhost:1313/world-war-ii/junkers-ju-88/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/kawanishi-n1k/</loc>
+    <loc>http://localhost:1313/world-war-ii/kawanishi-n1k/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/lavochkin-la-5/</loc>
+    <loc>http://localhost:1313/world-war-ii/lavochkin-la-5/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/messerschmitt-bf-109/</loc>
+    <loc>http://localhost:1313/world-war-ii/messerschmitt-bf-109/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/messerschmitt-me-262/</loc>
+    <loc>http://localhost:1313/world-war-ii/messerschmitt-me-262/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/mikoyan-gurevich-mig-3/</loc>
+    <loc>http://localhost:1313/world-war-ii/mikoyan-gurevich-mig-3/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/mitsubishi-a5m/</loc>
+    <loc>http://localhost:1313/world-war-ii/mitsubishi-a5m/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/mitsubishi-a6m/</loc>
+    <loc>http://localhost:1313/world-war-ii/mitsubishi-a6m/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/petlyakov-pe-2/</loc>
+    <loc>http://localhost:1313/world-war-ii/petlyakov-pe-2/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/short-stirling/</loc>
+    <loc>http://localhost:1313/world-war-ii/short-stirling/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/supermarine-spitfire/</loc>
+    <loc>http://localhost:1313/world-war-ii/supermarine-spitfire/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/yakovlev-yak-3/</loc>
+    <loc>http://localhost:1313/world-war-ii/yakovlev-yak-3/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/albatros-dv/</loc>
+    <loc>http://localhost:1313/world-war-i/albatros-dv/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/armstrong-whitworth-fk8/</loc>
+    <loc>http://localhost:1313/world-war-i/armstrong-whitworth-fk8/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/boeing-b-17-flying-fortress/</loc>
+    <loc>http://localhost:1313/world-war-ii/boeing-b-17-flying-fortress/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/boeing-b-29-superfortress/</loc>
+    <loc>http://localhost:1313/world-war-ii/boeing-b-29-superfortress/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/bristol-f2/</loc>
+    <loc>http://localhost:1313/world-war-i/bristol-f2/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/consolidated-b-24-liberator/</loc>
+    <loc>http://localhost:1313/world-war-ii/consolidated-b-24-liberator/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/fokker-dvii/</loc>
+    <loc>http://localhost:1313/world-war-i/fokker-dvii/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/fokker-dviii/</loc>
+    <loc>http://localhost:1313/world-war-i/fokker-dviii/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/fokker-dri/</loc>
+    <loc>http://localhost:1313/world-war-i/fokker-dri/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/fokker-eindecker/</loc>
+    <loc>http://localhost:1313/world-war-i/fokker-eindecker/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/grumman-f4f-wildcat/</loc>
+    <loc>http://localhost:1313/world-war-ii/grumman-f4f-wildcat/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/grumman-f6f-hellcat/</loc>
+    <loc>http://localhost:1313/world-war-ii/grumman-f6f-hellcat/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/halberstadt-dii/</loc>
+    <loc>http://localhost:1313/world-war-i/halberstadt-dii/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/lockheed-p-38-lightning/</loc>
+    <loc>http://localhost:1313/world-war-ii/lockheed-p-38-lightning/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/nieuport-17/</loc>
+    <loc>http://localhost:1313/world-war-i/nieuport-17/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/north-american-b-25-mitchell/</loc>
+    <loc>http://localhost:1313/world-war-ii/north-american-b-25-mitchell/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/north-american-p-51-mustang/</loc>
+    <loc>http://localhost:1313/world-war-ii/north-american-p-51-mustang/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/northrop-p-61-black-widow/</loc>
+    <loc>http://localhost:1313/world-war-ii/northrop-p-61-black-widow/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/republic-p-47-thunderbolt/</loc>
+    <loc>http://localhost:1313/world-war-ii/republic-p-47-thunderbolt/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/royal-aircraft-factory-be2/</loc>
+    <loc>http://localhost:1313/world-war-i/royal-aircraft-factory-be2/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/royal-aircraft-factory-se5/</loc>
+    <loc>http://localhost:1313/world-war-i/royal-aircraft-factory-se5/</loc>
   </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/sopwith-camel/</loc>
+    <loc>http://localhost:1313/world-war-i/sopwith-camel/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/spad-svii/</loc>
+    <loc>http://localhost:1313/world-war-i/spad-svii/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/spad-sxiii/</loc>
+    <loc>http://localhost:1313/world-war-i/spad-sxiii/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://example.org/world-war-i/vickers-fb5/</loc>
+    <loc>http://localhost:1313/world-war-i/vickers-fb5/</loc>
   </url><url>
-    <loc>https://example.org/world-war-ii/vought-f4u-corsair/</loc>
+    <loc>http://localhost:1313/world-war-ii/vought-f4u-corsair/</loc>
   </url>
 </urlset>
