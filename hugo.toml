@@ -1,0 +1,51 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Aircraft Guide'
+theme = "hugo-PaperMod"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows raw HTML in Markdown
+
+[params]
+  env = "production"
+  ShowSearch = true
+  mainSections = ["world-war-i", "world-war-ii", "cold-war", "modern-day"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+    name       = "World War I"
+    identifier = "menu.worldwari"
+    url        = "/world-war-i/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "World War II"
+    identifier = "menu.worldwarii"
+    url        = "/world-war-ii/"
+    weight     = 2
+
+[[menu.main]]
+    name       = "Cold War"
+    identifier = "menu.coldwar"
+    url        = "/cold-war/"
+    weight     = 3
+
+[[menu.main]]
+    name       = "Modern Day"
+    identifier = "menu.modernday"
+    url        = "/modern-day/"
+    weight     = 4
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 5  # adjust to change order

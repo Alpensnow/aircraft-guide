@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aircraft Guide</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Aircraft Guide</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/bell_ah-1_cobra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/bell_ah-1_cobra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/bell_uh-1_iroquois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/bell_uh-1_iroquois/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing-b-47-stratojet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing-b-47-stratojet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing-b-50-superfortress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing-b-50-superfortress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing-b-52-stratofortress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing-b-52-stratofortress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing_ah-64_apache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing_ah-64_apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing_ch-47_chinook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing_ch-47_chinook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/boeing_e-3_sentry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/boeing_e-3_sentry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/convair-b-36-peacemaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/convair-b-36-peacemaker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/convair-b-58-hustler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/convair-b-58-hustler/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/general-dynamics-f-111-aardvark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/general-dynamics-f-111-aardvark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/general-dynamics-f-16-fighting-falcon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/general-dynamics-f-16-fighting-falcon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/grumman-f-14-tomcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/grumman-f-14-tomcat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed-f-104-starfighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed-f-104-starfighter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed-sr-71-blackbird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed-sr-71-blackbird/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed-u-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed-u-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed_c-130_hercules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed_c-130_hercules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed_c-141_starlifter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed_c-141_starlifter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed_c-5_galaxy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed_c-5_galaxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/lockheed_ec-121_warning_star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/lockheed_ec-121_warning_star/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/mcdonnel-douglas-f-15-eagle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/mcdonnel-douglas-f-15-eagle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/mcdonnel-f-4-phantom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/mcdonnel-f-4-phantom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/mcdonnell-douglas-fa-18-hornet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/mcdonnell-douglas-fa-18-hornet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/north-american-f-100-super-sabre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/north-american-f-100-super-sabre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/north-american-f-86-sabre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/north-american-f-86-sabre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/northrop-b-2-spirit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/northrop-b-2-spirit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/republic-f-105-thunderchief/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/republic-f-105-thunderchief/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cold-war/sikorsky_uh-60_black_hawk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cold-war/sikorsky_uh-60_black_hawk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-i/albatros-di/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/albatros-di/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Albatros D.I (1916)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/albatros_di.jpg&#34; alt=&#34;Albatros D.I&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Benz Bz.III&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;7.4 m / 24 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.5 m / 27 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.95 m / 9 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;22.9 m² / 246 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;645 kg / 1422 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;898 Kg / 1980 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;175 km/h / 109 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;300 km / 186 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5,000 m / 16,000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.92 mm MG 08 machine gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/avro-lancaster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/avro-lancaster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/dornier-do-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/dornier-do-17/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/focke-wulf-fw-190/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/focke-wulf-fw-190/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/gloster-gladiator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/gloster-gladiator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/handley-page-halifax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/handley-page-halifax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/hawker-hurricane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/hawker-hurricane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/heinkel-he-111/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/heinkel-he-111/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/ilyushin-il-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/ilyushin-il-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/ilyushin-il-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/ilyushin-il-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/junkers-ju-87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/junkers-ju-87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/junkers-ju-88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/junkers-ju-88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/kawanishi-n1k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/kawanishi-n1k/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/lavochkin-la-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/lavochkin-la-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/messerschmitt-bf-109/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/messerschmitt-bf-109/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/messerschmitt-me-262/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/messerschmitt-me-262/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/mikoyan-gurevich-mig-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/mikoyan-gurevich-mig-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/mitsubishi-a5m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/mitsubishi-a5m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/mitsubishi-a6m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/mitsubishi-a6m/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/petlyakov-pe-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/petlyakov-pe-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/short-stirling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/short-stirling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/supermarine-spitfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/supermarine-spitfire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/world-war-ii/yakovlev-yak-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/yakovlev-yak-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Albatros D.V</title>
+      <link>http://localhost:1313/world-war-i/albatros-dv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/albatros-dv/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Albatros D.V (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/albatros_dv.jpg&#34; alt=&#34;Albatros D.V&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Mercedes D.III&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;7.33 m / 24 ft 1 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;9.04 m / 30 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.70 m / 8 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;21.20 m² / 228.19 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;687 kg / 1515 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;937 kg / 2066 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;185 km/h / 115 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;349 km / 217 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5700 m / 18700 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.92 mm LMG 08/15 machine guns&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Armstrong Whitworth F.K.8</title>
+      <link>http://localhost:1313/world-war-i/armstrong-whitworth-fk8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/armstrong-whitworth-fk8/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Armstrong Whitworth F.K.8 (1916)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/armstrong_whitworth_fk8.jpg&#34; alt=&#34;Armstrong Whitworth F.K.8&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Beardmore 160 hp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;9.58 m / 31 ft 5 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;13.26 m / 43 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;3.33 m / 10 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;50 m² / 540 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;869 kg / 1916 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;1275 kg / 2811 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;153 km/h / 95 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;380 km / 236 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;3690 m / 12100 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Vickers machine gun, 1 × 7.7 mm Lewis gun, 260 lb of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Boeing B-17 Flying Fortress</title>
+      <link>http://localhost:1313/world-war-ii/boeing-b-17-flying-fortress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/boeing-b-17-flying-fortress/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Boeing B-17 Flying Fortress (1938)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/boeing_b-17_flying_fortress.jpg&#34; alt=&#34;Boeing B-17 Flying Fortress&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;10 (pilot, co-pilot, navigator, bombardier / nose gunner, flight engineer/top turret gunner, radio operator, 2 × waist gunners, ball turret gunner, tail gunner)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;4 × Wright R-1820 Cyclone 9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;22.66 m / 74 ft 4 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;31.62 m / 103 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;5.82 m / 19 ft 1 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;131.92 m² / 1420 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;16391 kg / 36135 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;29700 kg / 65500 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;462 km/h / 287 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;3219 km / 2000 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;10850 m / 35600 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;13 × 12.7 mm (0.50 in) M2 Browning machine guns, 7800 kg (17600 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Boeing B-29 Superfortress</title>
+      <link>http://localhost:1313/world-war-ii/boeing-b-29-superfortress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/boeing-b-29-superfortress/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Boeing B-29 Superfortress (1942)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/boeing_b-29_superfortress.jpg&#34; alt=&#34;Boeing B-29 Superfortress&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;11 (Pilot, co-pilot, bombardier, flight engineer, navigator, radio operator, radar observer, right gunner, left gunner, central fire control, tail gunner)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;4 × Wright R-3350-23 Duplex-Cyclone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;30.18 m / 99 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;43.05 m / 141 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;8.46 m / 27 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;161.3 m² / 1736 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;33793 kg / 74500 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;54431 kg / 120000 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;575 km/h / 357 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;5230 km / 3250 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;9710 m / 31850 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;10 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × .50 BMG cannons, 9100 kg (20000 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Bristol F.2</title>
+      <link>http://localhost:1313/world-war-i/bristol-f2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/bristol-f2/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Bristol F.2 (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/bristol_f2.jpg&#34; alt=&#34;Bristol F.2&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Rolls-Royce Falcon III&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;7.87 m / 25 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;11.96 m / 39 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.97 m / 9 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;37.6 m² / 405 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;973 kg / 2145 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;1471 kg / 3243 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;198 km/h / 123 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;594 km / 369 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5500 m / 18000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Vickers machine gun, 1 × 7.7 mm in Lewis gun, 240 lb of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Consolidated B-24 Liberator</title>
+      <link>http://localhost:1313/world-war-ii/consolidated-b-24-liberator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/consolidated-b-24-liberator/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Consolidated B-24 Liberator (1941)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/consolidated_b-24_liberator.jpg&#34; alt=&#34;Consolidated B-24 Liberator&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;11 (pilot, co-pilot, navigator, bombardier, radio operator, nose turret, top turret, 2 × waist gunners, ball turret, tail gunner)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;4 × Pratt &amp; Whitney R-1830-35 Twin Wasp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;320.2 m / 66 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;33.6 m / 110 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;5.5 m / 18 ft 1 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;97.4 m² / 1048.40 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;16556 kg / 36500 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;24948 kg / 55000 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;487 km/h / 303 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;4580 km / 2846 mile&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;9750 m / 32000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;10 × 12.7 mm (0.50 in) M2 Browning machine guns, 5800 kg (12800 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Fokker D.VII</title>
+      <link>http://localhost:1313/world-war-i/fokker-dvii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/fokker-dvii/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Fokker D.VII (1918)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/fokker_dvii.jpg&#34; alt=&#34;Fokker D.VII&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Mercedes D.III&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;6.95 m / 22 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.9 m / 29 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.75 m / 9 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;20.5 m² / 221 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;670 kg / 1477 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;906 kg / 1997 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;189 km/h / 117 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;266 km / 165 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;6000 m / 20000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.92 mm LMG 08/15 machine guns&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Fokker D.VIII</title>
+      <link>http://localhost:1313/world-war-i/fokker-dviii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/fokker-dviii/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Fokker D.VIII (1918)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/fokker_dviii.jpg&#34; alt=&#34;Fokker D.VIII&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Oberursel UR.II&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;5.86 m / 19 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.34 m / 27 ft 4 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.6 m / 8 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;10.7 m² / 115 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;405 kg / 893 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;605 kg / 1334 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;204 km/h / 127 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;282 km / 175 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;6000 m / 20000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.92 mm MG 08 machine guns&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Fokker Dr.I</title>
+      <link>http://localhost:1313/world-war-i/fokker-dri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/fokker-dri/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Fokker Dr.I (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/fokker_dri.jpg&#34; alt=&#34;Fokker Dr.I&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Oberursel Ur.II&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;5.77 m / 18 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;7.19 m / 23 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.95 m / 9 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;18.7 m² / 201 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;406 kg / 895 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;586 kg / 1291 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;180 km/h / 110 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;300 km / 190 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;6100 m / 20000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.92 mm MG 08 machine guns&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Fokker Eindecker</title>
+      <link>http://localhost:1313/world-war-i/fokker-eindecker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/fokker-eindecker/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Fokker Eindecker (1915)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/fokker_eindecker.jpg&#34; alt=&#34;Fokker Eindecker&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Oberursel U.I&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;7.2 m / 23 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;9.52 m / 31 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.4 m / 7 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;16 m² / 170 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;399 kg / 880 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;610 kg / 1345 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;140 km/h / 87 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;359 km / 223 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;3,600 m / 11,810 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.92 mm LMG 08/15 machine gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Grumman F4F Wildcat</title>
+      <link>http://localhost:1313/world-war-ii/grumman-f4f-wildcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/grumman-f4f-wildcat/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Grumman F4F Wildcat (1940)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/grumman_f4f_wildcat.jpg&#34; alt=&#34;Grumman F4F Wildcat&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Pratt &amp; Whitney R-1830-76&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;11.58 m / 38 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.76 m / 29 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.81 m / 9 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;24.15 m² / 259.95 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;2612 kg / 5759 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;3607 kg / 7952 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;512 km/h / 318 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;1239 km / 770 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;12010 m / 39400 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 45 kg (100 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Grumman F6F Hellcat</title>
+      <link>http://localhost:1313/world-war-ii/grumman-f6f-hellcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/grumman-f6f-hellcat/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Grumman F6F Hellcat (1942)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/grumman_f6f_hellcat.jpg&#34; alt=&#34;Grumman F6F Hellcat&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Pratt &amp; Whitney R-2800-10W Double Wasp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;10.24 m / 34 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;13.06 m / 43 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;4.11 m / 14 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;31.03 m² / 334.00 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;4152 kg / 9154 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;6991 kg / 15413 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;612 km/h / 380 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;2462 km / 1530 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;11370 m / 37300 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;6 × 12.7 mm (0.50 in) M2 Browning machine guns, 2 × 453 kg (1000 lb) of bombs or 6 × 127 mm (5 in) rockets&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Halberstadt D.II</title>
+      <link>http://localhost:1313/world-war-i/halberstadt-dii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/halberstadt-dii/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Halberstadt D.II (1916)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/halberstadt_dii.jpg&#34; alt=&#34;Halberstadt D.II&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Mercedes D.II&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;7.3 m / 23 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.8 m / 28 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.66 m / 8 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;23.6 m² / 254 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;519 kg / 1144 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;729 kg / 1606 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;150 km/h / 93 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;250 km / 160 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;4000 m / 13000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.92 mm IMG 08 machine gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Lockheed P-38 Lightning</title>
+      <link>http://localhost:1313/world-war-ii/lockheed-p-38-lightning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/lockheed-p-38-lightning/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Lockheed P-38 Lightning (1939)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/lockheed_p-38_lightning.jpg&#34; alt=&#34;Lockheed P-38 Lightning&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;P-38 Lightning&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;2 × Allison V-1710&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;11.53 m / 37 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;15.85 m / 52 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;3.91 m / 12 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;30.43 m² / 327.5 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;5806 kg / 12800 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;7938 kg / 17500 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;666 km/h / 414 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;2100 km / 1300 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;13700 m / 45000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × Hispano M2(C) 20 mm cannon, 4 × 0.50 in (12.7 mm) M2 Browning machine guns, 2 × 726 kg (1600 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Nieuport 17</title>
+      <link>http://localhost:1313/world-war-i/nieuport-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/nieuport-17/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Nieuport 17 (1916)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/nieuport_17.jpg&#34; alt=&#34;Nieuport 17&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Le Rhône 9Ja&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;5.8 m / 19 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.16 m / 26 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt; 2.4 m / 7 ft 10 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;14.75 m² / 158.8 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;375 kg / 827 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;560 kg / 1235 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;170 km/h / 110 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;349 km / 155 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5300 m / 17400 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Vickers machine gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>North American B-25 Mitchell</title>
+      <link>http://localhost:1313/world-war-ii/north-american-b-25-mitchell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/north-american-b-25-mitchell/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;North American B-25 Mitchell (1941)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/north_american_b-25_mitchell.jpg&#34; alt=&#34;North American B-25 Mitchell&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;5 (pilot, navigator/bombardier, turret gunner/engineer, radio operator/waist gunner, tail gunner)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;2 × Wright R-2600-92 Twin Cyclone&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;16.13 m / 53 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;20.6 m / 68 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;4.98 m / 16 ft 4 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;56.67 m² / 609.99 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;8836 kg / 19480 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;15876 kg / 35001 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;438 km/h / 272 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;2173 km / 1350 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;7375 m / 24200 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;12 × 12.7 mm (0.50 in) M2 Browning machine guns, 1361 kg (3000 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>North American P-51 Mustang</title>
+      <link>http://localhost:1313/world-war-ii/north-american-p-51-mustang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/north-american-p-51-mustang/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;North American P-51 Mustang (1940)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/north_american_p-51_mustang.jpg&#34; alt=&#34;North American P-51 Mustang&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Packard V-1650-7 Merlin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;9.83 m / 32 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;11.28 m / 37 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.64 m / 9 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;21.65 m² / 233.04 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;3232 kg / 7125 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;5488 kg / 12099 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;703 km/h / 437 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;3347 km / 2080 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;12770 m / 41900 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;6 × 12.7 mm (0.50 in) M2 Browning machine guns, 454 kg (1000 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Northrop P-61 Black Widow</title>
+      <link>http://localhost:1313/world-war-ii/northrop-p-61-black-widow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/northrop-p-61-black-widow/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Northrop P-61 Black Widow (1942)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/northrop_p-61_black_widow.jpg&#34; alt=&#34;Northrop P-61 Black Widow&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;3 (pilot, radar operator, gunner)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;2 × Pratt &amp; Whitney R-2800-65W Double Wasp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;15.11 m / 50 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;20.12 m / 66 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;4.47 m / 15 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;61.53 m² / 662.30 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;10637 kg / 23451 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;16420 kg / 36200 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;589 km/h / 366 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;2173 km / 1350 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;10090 m / 33100 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;4 × 20 mm (0.79 in) Hispano AN/M2 cannons, 4 × 12.7 mm (0.50 in) M2 Browning machine guns, 2900 kg (6400 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Republic P-47 Thunderbolt</title>
+      <link>http://localhost:1313/world-war-ii/republic-p-47-thunderbolt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/republic-p-47-thunderbolt/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Rebpulic P-47 Thunderbolt (1941)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/republic_p-47_thunderbolt.jpg&#34; alt=&#34;Republic P-47 Thunderbolt&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Pratt &amp; Whitney R-2800-59&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;11.02 m / 36 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;12.43 m / 41 ft 9 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;4.47 m / 15 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;27.87 m² / 299.99 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;4513 kg / 9950 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;7938 kg / 17500 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;697 km/h / 433 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;3058 km / 1900 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;12495 m / 41000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;8 × 12.7 mm (0.50 in) M2 Browning machine guns, 1100 kg (2500 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Royal Aircraft Factory B.E.2</title>
+      <link>http://localhost:1313/world-war-i/royal-aircraft-factory-be2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/royal-aircraft-factory-be2/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Royal Aircraft Factory B.E.2 (1912)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/royal_aircraft_factory_be2.jpg&#34; alt=&#34;Royal Aircraft Factory B.E.2&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × RAF 1a&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;8.3 m / 27 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;11.3 m / 37 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;3.4 m / 11 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;34.5 m² / 371.4 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;621 kg / 1370 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;1066 Kg / 2350 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;116 km/h / 72 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;350 km / 217 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;2745 m / 9000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Lewis gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Royal Aircraft Factory S.E.5</title>
+      <link>http://localhost:1313/world-war-i/royal-aircraft-factory-se5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/royal-aircraft-factory-se5/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Royal Aircraft Factory S.E.5 (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/royal_aircraft_factory_se5.jpg&#34; alt=&#34;Royal Aircraft Factory S.E.5&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Hispano-Suiza 8 or Wolseley Viper&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;6.38 m / 20 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.1 m / 26 ft 7 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.9 m / 9 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;22.7 m² / 244 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;640 kg / 1410 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;878 kg / 1935 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;222 km/h / 138 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;480 km / 300 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5200 m / 17000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Vickers machine gun, 1 × 7.7 mm Lewis gun, 4 × 25 lb Cooper bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Sopwith Camel</title>
+      <link>http://localhost:1313/world-war-i/sopwith-camel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/sopwith-camel/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Sopwith Camel (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/sopwith_camel.jpg&#34; alt=&#34;Sopwith Camel&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Clerget 9B&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;5.7 m / 28 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.5 m / 28 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.6 m / 9 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;21.5 m² / 231.4 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;422 kg / 930 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;659 Kg / 1453 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;185 km/h / 115 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;350 km / 217 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5790 m / 19000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.7 mm Vickers machine guns, 4 x 20 lb Cooper bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Developed by the British company Sopwith Aviation Company, the Camel was a single-seat biplane designed primarily for dogfighting and ground attack missions. Introduced in 1917, it became the most successful Allied fighter of the war, credited with shooting down over 1,200 enemy aircraft. Known for its exceptional maneuverability, the Camel was a formidable opponent in the hands of skilled pilots. Despite its challenging handling, particularly its tendency to be tail-heavy, the Camel’s speed, firepower, and agility made it a favorite among aces like Captain Roy Brown and Lt. Billy Bishop, helping secure British air superiority during critical stages of the conflict.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SPAD S.VII</title>
+      <link>http://localhost:1313/world-war-i/spad-svii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/spad-svii/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;SPAD S.VII (1916)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/spad_svii.jpg&#34; alt=&#34;SPAD S.VII&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Hispano-Suiza 8Aa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;6.08 m / 19 ft 11 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;7.82 m / 25 ft 8 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.2 m / 7 ft 3 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;17.85 m² / 192.1 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;500 kg / 1102 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;705 kg / 1554 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;193 km/h / 120 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;400 km / 250 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;5500 m / 18000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;1 × 7.7 mm Vickers machine gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>SPAD S.XIII</title>
+      <link>http://localhost:1313/world-war-i/spad-sxiii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/spad-sxiii/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;SPAD S.XIII (1917)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/spad_sxiii.jpg&#34; alt=&#34;SPAD S.XIII&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Hispano-Suiza 8Aa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;6.25 m / 20 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;8.25 m / 27 ft 1 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;2.60 m / 8 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;21.11 m² / 227.2 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;602 kg / 1326 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;857 kg / 1888 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;211 km/h / 131 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;275 km / 171 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;6800 m / 22300 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.7 mm Vickers machine guns,  4 × 25 lb Cooper bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Vickers F.B.5</title>
+      <link>http://localhost:1313/world-war-i/vickers-fb5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-i/vickers-fb5/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Vickers F.B.5 (1914)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/vickers_fb5.jpg&#34; alt=&#34;Vickers F.B.5&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Gnome Monosoupape&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;8.28 m / 27 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;11.13 m / 36 ft 6 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;3.35 m / 11 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;35.5 m² / 382 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;553 kg / 1220 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;930 kg / 2050 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;110 km/h / 70 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;400 km / 250 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;2700 m / 9000 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;2 × 7.7 mm Lewis gun&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;</description>
+    </item>
+    <item>
+      <title>Vought F4U Corsair</title>
+      <link>http://localhost:1313/world-war-ii/vought-f4u-corsair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world-war-ii/vought-f4u-corsair/</guid>
+      <description>&lt;h1 class=&#34;center-header&#34;&gt;Vought F4U Corsair (1942)&lt;/h1&gt;
+&lt;br&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;../images/vought_f4u_corsair.jpg&#34; alt=&#34;Vought F4U Corsair&#34; width=&#34;70%&#34;&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;table class=&#34;table_component&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th colspan=&#34;2&#34; class=&#34;header&#34;&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Crew&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Engine&lt;/td&gt;
+      &lt;td&gt;1 × Pratt &amp; Whitney R-2800-18W&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Length&lt;/td&gt;
+      &lt;td&gt;10.1 m / 33 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wingspan&lt;/td&gt;
+      &lt;td&gt;12.5 m / 41 ft 0 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Height&lt;/td&gt;
+      &lt;td&gt;3.7 m / 12 ft 2 in&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Wing Area&lt;/td&gt;
+      &lt;td&gt;29.2 m² / 314.31 sq ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Empty Weight&lt;/td&gt;
+      &lt;td&gt;4024 kg / 8871 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Take-off Weight&lt;/td&gt;
+      &lt;td&gt;5757 kg / 12692 lb&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum Speed&lt;/td&gt;
+      &lt;td&gt;620 km/h / 385 mph&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Range&lt;/td&gt;
+      &lt;td&gt;2500 km / 1553 mi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ceiling&lt;/td&gt;
+      &lt;td&gt;11300 m / 37050 ft&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Armament&lt;/td&gt;
+      &lt;td&gt;6 × 12.7 mm (0.50 in) M2 Browning machine guns, 1800 kg (4000 lb) of bombs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
