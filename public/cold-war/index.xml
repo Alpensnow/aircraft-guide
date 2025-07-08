@@ -2,205 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aircraft Guide</title>
-    <link>http://localhost:1313/cold-war/</link>
+    <link>https://example.org/cold-war/</link>
     <description>Recent content on Aircraft Guide</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/cold-war/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/cold-war/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/bell_ah-1_cobra/</link>
+      <link>https://example.org/cold-war/bell_ah-1_cobra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/bell_ah-1_cobra/</guid>
+      <guid>https://example.org/cold-war/bell_ah-1_cobra/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/bell_uh-1_iroquois/</link>
+      <link>https://example.org/cold-war/bell_uh-1_iroquois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/bell_uh-1_iroquois/</guid>
+      <guid>https://example.org/cold-war/bell_uh-1_iroquois/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing-b-47-stratojet/</link>
+      <link>https://example.org/cold-war/boeing-b-47-stratojet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing-b-47-stratojet/</guid>
+      <guid>https://example.org/cold-war/boeing-b-47-stratojet/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing-b-50-superfortress/</link>
+      <link>https://example.org/cold-war/boeing-b-50-superfortress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing-b-50-superfortress/</guid>
+      <guid>https://example.org/cold-war/boeing-b-50-superfortress/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing-b-52-stratofortress/</link>
+      <link>https://example.org/cold-war/boeing-b-52-stratofortress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing-b-52-stratofortress/</guid>
+      <guid>https://example.org/cold-war/boeing-b-52-stratofortress/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing_ah-64_apache/</link>
+      <link>https://example.org/cold-war/boeing_ah-64_apache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing_ah-64_apache/</guid>
+      <guid>https://example.org/cold-war/boeing_ah-64_apache/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing_ch-47_chinook/</link>
+      <link>https://example.org/cold-war/boeing_ch-47_chinook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing_ch-47_chinook/</guid>
+      <guid>https://example.org/cold-war/boeing_ch-47_chinook/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/boeing_e-3_sentry/</link>
+      <link>https://example.org/cold-war/boeing_e-3_sentry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/boeing_e-3_sentry/</guid>
+      <guid>https://example.org/cold-war/boeing_e-3_sentry/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/convair-b-36-peacemaker/</link>
+      <link>https://example.org/cold-war/convair-b-36-peacemaker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/convair-b-36-peacemaker/</guid>
+      <guid>https://example.org/cold-war/convair-b-36-peacemaker/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/convair-b-58-hustler/</link>
+      <link>https://example.org/cold-war/convair-b-58-hustler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/convair-b-58-hustler/</guid>
+      <guid>https://example.org/cold-war/convair-b-58-hustler/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/general-dynamics-f-111-aardvark/</link>
+      <link>https://example.org/cold-war/general-dynamics-f-111-aardvark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/general-dynamics-f-111-aardvark/</guid>
+      <guid>https://example.org/cold-war/general-dynamics-f-111-aardvark/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/general-dynamics-f-16-fighting-falcon/</link>
+      <link>https://example.org/cold-war/general-dynamics-f-16-fighting-falcon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/general-dynamics-f-16-fighting-falcon/</guid>
+      <guid>https://example.org/cold-war/general-dynamics-f-16-fighting-falcon/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/grumman-f-14-tomcat/</link>
+      <link>https://example.org/cold-war/grumman-f-14-tomcat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/grumman-f-14-tomcat/</guid>
+      <guid>https://example.org/cold-war/grumman-f-14-tomcat/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed-f-104-starfighter/</link>
+      <link>https://example.org/cold-war/lockheed-f-104-starfighter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed-f-104-starfighter/</guid>
+      <guid>https://example.org/cold-war/lockheed-f-104-starfighter/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed-sr-71-blackbird/</link>
+      <link>https://example.org/cold-war/lockheed-sr-71-blackbird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed-sr-71-blackbird/</guid>
+      <guid>https://example.org/cold-war/lockheed-sr-71-blackbird/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed-u-2/</link>
+      <link>https://example.org/cold-war/lockheed-u-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed-u-2/</guid>
+      <guid>https://example.org/cold-war/lockheed-u-2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed_c-130_hercules/</link>
+      <link>https://example.org/cold-war/lockheed_c-130_hercules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed_c-130_hercules/</guid>
+      <guid>https://example.org/cold-war/lockheed_c-130_hercules/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed_c-141_starlifter/</link>
+      <link>https://example.org/cold-war/lockheed_c-141_starlifter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed_c-141_starlifter/</guid>
+      <guid>https://example.org/cold-war/lockheed_c-141_starlifter/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed_c-5_galaxy/</link>
+      <link>https://example.org/cold-war/lockheed_c-5_galaxy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed_c-5_galaxy/</guid>
+      <guid>https://example.org/cold-war/lockheed_c-5_galaxy/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/lockheed_ec-121_warning_star/</link>
+      <link>https://example.org/cold-war/lockheed_ec-121_warning_star/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/lockheed_ec-121_warning_star/</guid>
+      <guid>https://example.org/cold-war/lockheed_ec-121_warning_star/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/mcdonnel-douglas-f-15-eagle/</link>
+      <link>https://example.org/cold-war/mcdonnel-douglas-f-15-eagle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/mcdonnel-douglas-f-15-eagle/</guid>
+      <guid>https://example.org/cold-war/mcdonnel-douglas-f-15-eagle/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/mcdonnel-f-4-phantom/</link>
+      <link>https://example.org/cold-war/mcdonnel-f-4-phantom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/mcdonnel-f-4-phantom/</guid>
+      <guid>https://example.org/cold-war/mcdonnel-f-4-phantom/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/mcdonnell-douglas-fa-18-hornet/</link>
+      <link>https://example.org/cold-war/mcdonnell-douglas-fa-18-hornet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/mcdonnell-douglas-fa-18-hornet/</guid>
+      <guid>https://example.org/cold-war/mcdonnell-douglas-fa-18-hornet/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/north-american-f-100-super-sabre/</link>
+      <link>https://example.org/cold-war/north-american-f-100-super-sabre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/north-american-f-100-super-sabre/</guid>
+      <guid>https://example.org/cold-war/north-american-f-100-super-sabre/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/north-american-f-86-sabre/</link>
+      <link>https://example.org/cold-war/north-american-f-86-sabre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/north-american-f-86-sabre/</guid>
+      <guid>https://example.org/cold-war/north-american-f-86-sabre/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/northrop-b-2-spirit/</link>
+      <link>https://example.org/cold-war/northrop-b-2-spirit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/northrop-b-2-spirit/</guid>
+      <guid>https://example.org/cold-war/northrop-b-2-spirit/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/republic-f-105-thunderchief/</link>
+      <link>https://example.org/cold-war/republic-f-105-thunderchief/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/republic-f-105-thunderchief/</guid>
+      <guid>https://example.org/cold-war/republic-f-105-thunderchief/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/cold-war/sikorsky_uh-60_black_hawk/</link>
+      <link>https://example.org/cold-war/sikorsky_uh-60_black_hawk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cold-war/sikorsky_uh-60_black_hawk/</guid>
+      <guid>https://example.org/cold-war/sikorsky_uh-60_black_hawk/</guid>
       <description></description>
     </item>
   </channel>
