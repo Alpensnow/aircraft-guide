@@ -2,170 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Aircraft Guide</title>
-    <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/</link>
+    <link>http://localhost:1313/world-war-ii/</link>
     <description>Recent content on Aircraft Guide</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <atom:link href="https://alpensnow.github.io/aircraft-guide/world-war-ii/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/world-war-ii/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/avro-lancaster/</link>
+      <link>http://localhost:1313/world-war-ii/avro-lancaster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/avro-lancaster/</guid>
+      <guid>http://localhost:1313/world-war-ii/avro-lancaster/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/dornier-do-17/</link>
+      <link>http://localhost:1313/world-war-ii/dornier-do-17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/dornier-do-17/</guid>
+      <guid>http://localhost:1313/world-war-ii/dornier-do-17/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/focke-wulf-fw-190/</link>
+      <link>http://localhost:1313/world-war-ii/focke-wulf-fw-190/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/focke-wulf-fw-190/</guid>
+      <guid>http://localhost:1313/world-war-ii/focke-wulf-fw-190/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/gloster-gladiator/</link>
+      <link>http://localhost:1313/world-war-ii/gloster-gladiator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/gloster-gladiator/</guid>
+      <guid>http://localhost:1313/world-war-ii/gloster-gladiator/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/handley-page-halifax/</link>
+      <link>http://localhost:1313/world-war-ii/handley-page-halifax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/handley-page-halifax/</guid>
+      <guid>http://localhost:1313/world-war-ii/handley-page-halifax/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/hawker-hurricane/</link>
+      <link>http://localhost:1313/world-war-ii/hawker-hurricane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/hawker-hurricane/</guid>
+      <guid>http://localhost:1313/world-war-ii/hawker-hurricane/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/heinkel-he-111/</link>
+      <link>http://localhost:1313/world-war-ii/heinkel-he-111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/heinkel-he-111/</guid>
+      <guid>http://localhost:1313/world-war-ii/heinkel-he-111/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/ilyushin-il-2/</link>
+      <link>http://localhost:1313/world-war-ii/ilyushin-il-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/ilyushin-il-2/</guid>
+      <guid>http://localhost:1313/world-war-ii/ilyushin-il-2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/ilyushin-il-4/</link>
+      <link>http://localhost:1313/world-war-ii/ilyushin-il-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/ilyushin-il-4/</guid>
+      <guid>http://localhost:1313/world-war-ii/ilyushin-il-4/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/junkers-ju-87/</link>
+      <link>http://localhost:1313/world-war-ii/junkers-ju-87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/junkers-ju-87/</guid>
+      <guid>http://localhost:1313/world-war-ii/junkers-ju-87/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/junkers-ju-88/</link>
+      <link>http://localhost:1313/world-war-ii/junkers-ju-88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/junkers-ju-88/</guid>
+      <guid>http://localhost:1313/world-war-ii/junkers-ju-88/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/kawanishi-n1k/</link>
+      <link>http://localhost:1313/world-war-ii/kawanishi-n1k/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/kawanishi-n1k/</guid>
+      <guid>http://localhost:1313/world-war-ii/kawanishi-n1k/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/lavochkin-la-5/</link>
+      <link>http://localhost:1313/world-war-ii/lavochkin-la-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/lavochkin-la-5/</guid>
+      <guid>http://localhost:1313/world-war-ii/lavochkin-la-5/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/messerschmitt-bf-109/</link>
+      <link>http://localhost:1313/world-war-ii/messerschmitt-bf-109/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/messerschmitt-bf-109/</guid>
+      <guid>http://localhost:1313/world-war-ii/messerschmitt-bf-109/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/messerschmitt-me-262/</link>
+      <link>http://localhost:1313/world-war-ii/messerschmitt-me-262/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/messerschmitt-me-262/</guid>
+      <guid>http://localhost:1313/world-war-ii/messerschmitt-me-262/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/mikoyan-gurevich-mig-3/</link>
+      <link>http://localhost:1313/world-war-ii/mikoyan-gurevich-mig-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/mikoyan-gurevich-mig-3/</guid>
+      <guid>http://localhost:1313/world-war-ii/mikoyan-gurevich-mig-3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/mitsubishi-a5m/</link>
+      <link>http://localhost:1313/world-war-ii/mitsubishi-a5m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/mitsubishi-a5m/</guid>
+      <guid>http://localhost:1313/world-war-ii/mitsubishi-a5m/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/mitsubishi-a6m/</link>
+      <link>http://localhost:1313/world-war-ii/mitsubishi-a6m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/mitsubishi-a6m/</guid>
+      <guid>http://localhost:1313/world-war-ii/mitsubishi-a6m/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/petlyakov-pe-2/</link>
+      <link>http://localhost:1313/world-war-ii/petlyakov-pe-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/petlyakov-pe-2/</guid>
+      <guid>http://localhost:1313/world-war-ii/petlyakov-pe-2/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/short-stirling/</link>
+      <link>http://localhost:1313/world-war-ii/short-stirling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/short-stirling/</guid>
+      <guid>http://localhost:1313/world-war-ii/short-stirling/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/supermarine-spitfire/</link>
+      <link>http://localhost:1313/world-war-ii/supermarine-spitfire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/supermarine-spitfire/</guid>
+      <guid>http://localhost:1313/world-war-ii/supermarine-spitfire/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/yakovlev-yak-3/</link>
+      <link>http://localhost:1313/world-war-ii/yakovlev-yak-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/yakovlev-yak-3/</guid>
+      <guid>http://localhost:1313/world-war-ii/yakovlev-yak-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Boeing B-17 Flying Fortress</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/boeing-b-17-flying-fortress/</link>
+      <link>http://localhost:1313/world-war-ii/boeing-b-17-flying-fortress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/boeing-b-17-flying-fortress/</guid>
+      <guid>http://localhost:1313/world-war-ii/boeing-b-17-flying-fortress/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Boeing B-17 Flying Fortress (1938)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -232,9 +232,9 @@
     </item>
     <item>
       <title>Boeing B-29 Superfortress</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/boeing-b-29-superfortress/</link>
+      <link>http://localhost:1313/world-war-ii/boeing-b-29-superfortress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/boeing-b-29-superfortress/</guid>
+      <guid>http://localhost:1313/world-war-ii/boeing-b-29-superfortress/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Boeing B-29 Superfortress (1942)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -301,9 +301,9 @@
     </item>
     <item>
       <title>Consolidated B-24 Liberator</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/consolidated-b-24-liberator/</link>
+      <link>http://localhost:1313/world-war-ii/consolidated-b-24-liberator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/consolidated-b-24-liberator/</guid>
+      <guid>http://localhost:1313/world-war-ii/consolidated-b-24-liberator/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Consolidated B-24 Liberator (1941)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -370,9 +370,9 @@
     </item>
     <item>
       <title>Grumman F4F Wildcat</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/grumman-f4f-wildcat/</link>
+      <link>http://localhost:1313/world-war-ii/grumman-f4f-wildcat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/grumman-f4f-wildcat/</guid>
+      <guid>http://localhost:1313/world-war-ii/grumman-f4f-wildcat/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Grumman F4F Wildcat (1940)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -439,9 +439,9 @@
     </item>
     <item>
       <title>Grumman F6F Hellcat</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/grumman-f6f-hellcat/</link>
+      <link>http://localhost:1313/world-war-ii/grumman-f6f-hellcat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/grumman-f6f-hellcat/</guid>
+      <guid>http://localhost:1313/world-war-ii/grumman-f6f-hellcat/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Grumman F6F Hellcat (1942)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -508,9 +508,9 @@
     </item>
     <item>
       <title>Lockheed P-38 Lightning</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/lockheed-p-38-lightning/</link>
+      <link>http://localhost:1313/world-war-ii/lockheed-p-38-lightning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/lockheed-p-38-lightning/</guid>
+      <guid>http://localhost:1313/world-war-ii/lockheed-p-38-lightning/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Lockheed P-38 Lightning (1939)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -577,9 +577,9 @@
     </item>
     <item>
       <title>North American B-25 Mitchell</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/north-american-b-25-mitchell/</link>
+      <link>http://localhost:1313/world-war-ii/north-american-b-25-mitchell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/north-american-b-25-mitchell/</guid>
+      <guid>http://localhost:1313/world-war-ii/north-american-b-25-mitchell/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;North American B-25 Mitchell (1941)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -646,9 +646,9 @@
     </item>
     <item>
       <title>North American P-51 Mustang</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/north-american-p-51-mustang/</link>
+      <link>http://localhost:1313/world-war-ii/north-american-p-51-mustang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/north-american-p-51-mustang/</guid>
+      <guid>http://localhost:1313/world-war-ii/north-american-p-51-mustang/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;North American P-51 Mustang (1940)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -715,9 +715,9 @@
     </item>
     <item>
       <title>Northrop P-61 Black Widow</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/northrop-p-61-black-widow/</link>
+      <link>http://localhost:1313/world-war-ii/northrop-p-61-black-widow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/northrop-p-61-black-widow/</guid>
+      <guid>http://localhost:1313/world-war-ii/northrop-p-61-black-widow/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Northrop P-61 Black Widow (1942)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -784,9 +784,9 @@
     </item>
     <item>
       <title>Republic P-47 Thunderbolt</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/republic-p-47-thunderbolt/</link>
+      <link>http://localhost:1313/world-war-ii/republic-p-47-thunderbolt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/republic-p-47-thunderbolt/</guid>
+      <guid>http://localhost:1313/world-war-ii/republic-p-47-thunderbolt/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Rebpulic P-47 Thunderbolt (1941)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;
@@ -853,9 +853,9 @@
     </item>
     <item>
       <title>Vought F4U Corsair</title>
-      <link>https://alpensnow.github.io/aircraft-guide/world-war-ii/vought-f4u-corsair/</link>
+      <link>http://localhost:1313/world-war-ii/vought-f4u-corsair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alpensnow.github.io/aircraft-guide/world-war-ii/vought-f4u-corsair/</guid>
+      <guid>http://localhost:1313/world-war-ii/vought-f4u-corsair/</guid>
       <description>&lt;h1 class=&#34;center-header&#34;&gt;Vought F4U Corsair (1942)&lt;/h1&gt;
 &lt;br&gt;
 &lt;p align=&#34;center&#34;&gt;

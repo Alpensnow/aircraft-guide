@@ -1,4 +1,4 @@
-baseURL = 'https://alpensnow.github.io/aircraft-guide/'
+baseURL = 'https://www.example.com/'
 languageCode = 'en-us'
 title = 'Aircraft Guide'
 theme = "hugo-PaperMod-master"
