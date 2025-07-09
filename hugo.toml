@@ -15,6 +15,7 @@ theme = "hugo-PaperMod-master"
 [params]
   env = "production"
   ShowSearch = true
+  mainSections = ["world-war-i", "world-war-ii", "cold-war", "modern-day"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
