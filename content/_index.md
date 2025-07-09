@@ -1,4 +1,6 @@
-
+---
+layout: "custom"
+---
 
 <h1> About </h1>
 
